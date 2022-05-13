@@ -1,2 +1,8 @@
-# poburi-react-ts-template
-react, typescipt, emotion template
+# poe-react-ts
+
+React, Typescript Template.
+
+- React 18
+- Typescript
+- Tailwind
+- 
